@@ -1,0 +1,81 @@
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+    padding-bottom: 0px;
+}
+
+.text {
+   
+    margin-left: 175px;
+    flex: 1;
+    margin-right: 20px;
+
+}
+
+.image img {
+    max-width: 70%;
+    height: auto;
+    border-radius: 10px; /* Optional: to add rounded corners */
+}
+
+h5 {
+margin-top: 35px;
+}
+.amba {
+        line-height: 27px;
+}
+.left {
+    flex: 1;
+    margin-right: 200px;
+    margin-left: 290px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.navbar-nav .nav-link {
+    margin-right: 20px; /* Adjust the value as needed */
+}
+
+.navbar-nav .nav-item.dropdown .dropdown-menu .dropdown-item {
+    margin-right: 20px; /* Adjust the value as needed */
+}
+/* styles.css */
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand .logo {
+    max-height: 40px; /* Adjust the height of the logo as needed */
+    margin-right: 10px; /* Adjust the space between the logo and the text */
+}
+
+/* styles.css */
+.green-button {
+    margin-left: 290px;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #28a745; /* Green background */
+    color: white; /* White text */
+    text-align: center;
+    text-decoration: none;
+    border-radius: 18px; /* Rounded corners */
+    font-size: 16px; /* Font size */
+    transition: background-color 0.3s ease; /* Transition for hover effect */
+}
+
+.green-button:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+.logo {
+    border-radius: 50%;
+}
+.kpl {
+    margin-top: 8px;
+}

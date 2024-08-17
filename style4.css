@@ -1,0 +1,31 @@
+.kepala {
+    text-align: center;
+    line-height: 6px;
+}
+
+h3 {
+    margin-bottom: 4px; /* Menyesuaikan jarak bawah dari <h3> */
+    margin-left: 6px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+hr {
+    margin-top: 0; /* Menghapus jarak atas dari <hr> */
+    margin-bottom: -6px;
+}
+p {
+    margin-bottom: -14px; /* Mengatur jarak bawah dari setiap <p> */
+}
+.bio {
+    text-indent: 36px;
+}
+.location-date {
+    text-align: right;
+}
+.education-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}

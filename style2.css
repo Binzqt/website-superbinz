@@ -1,0 +1,62 @@
+.muka {
+    margin-top: 30px;
+    margin-left: 44%;
+    width: 200px;
+    height: 200px ;
+ border-radius: 50%;
+ object-fit: cover;
+}
+
+.bio {
+    font-family:  'Calibri',  sans-serif;
+}
+.aa {
+ margin-left: 8px;
+}
+.bb {
+ margin-left: 8px;
+}
+p {
+     margin-left: 8px;
+}
+h3
+ {
+     margin-left: 6px;
+}
+.logo {
+    border-radius: 50%;
+}
+ 
+.green-button {
+    margin-left: 290px;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #28a745; /* Green background */
+    color: white; /* White text */
+    text-align: center;
+    text-decoration: none;
+    border-radius: 18px; /* Rounded corners */
+    font-size: 16px; /* Font size */
+    transition: background-color 0.3s ease; /* Transition for hover effect */
+}
+
+.green-button:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+.navbar-nav .nav-link {
+    margin-right: 20px; /* Adjust the value as needed */
+}
+
+.navbar-nav .nav-item.dropdown .dropdown-menu .dropdown-item {
+    margin-right: 20px; /* Adjust the value as needed */
+}
+/* styles.css */
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand .logo {
+    max-height: 40px; /* Adjust the height of the logo as needed */
+    margin-right: 10px; /* Adjust the space between the logo and the text */
+}
